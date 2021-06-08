@@ -1,0 +1,13 @@
+name: SF_Twister
+title: SF_Twister
+username:
+account: fcorset
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4227462
+bundleId: 4692508
+url: https://fcorset.shinyapps.io/SF_Twister/
+when: 1623163311.08498
+lastSyncTime: 1623163311.08499
+asMultiple: FALSE
+asStatic: FALSE
